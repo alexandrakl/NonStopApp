@@ -1,0 +1,40 @@
+{
+    "airports": 
+    {
+        "LAX": 
+        {
+            "Terminals": 
+            {
+                "Terminal 1": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {} 
+                }, "Terminal 2": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {}  
+                }, "Terminal 3": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {}                 
+                }, "Terminal 4": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {}   
+                }, "Terminal 5": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {} 
+                }, "Terminal 6": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {} 
+                }, "Terminal 7": {
+                    "Flight Number": {},
+                    "Gate": {},
+                    "Flight Time": {} 
+                }
+            } 
+        }
+    }
+}
